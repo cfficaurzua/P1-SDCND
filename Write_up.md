@@ -29,24 +29,16 @@ Finally in persuance of drawing the lines I use the line parameters a and b to c
 
 Output videos could be seen [here](https://www.youtube.com/watch?v=RIERRjmbTtU&list=PL2M3eNbHNxfPizmTBq9fFZnCdAGkHUVPr "Youtube Lane Line Project Playlist")
 
+the following pictures are the output for the test images.
 
-[//]: # (Image References)
-
-[image1]: /output/solidWhiteCurve_line_overlay.png "Solid white Curve Line"
-[image2]: /output/solidWhiteCurve_raw_lines.png "Solid white Curve Line"
-[image3]: /output/solidWhiteRight_line_overlay.png "Solid white Curve Line"
-[image4]: /output/solidWhiteRight_raw_lines.png "Solid white Curve Line"
-[image5]: /output/solidYellowCurve_line_overlay.png "Solid white Curve Line"
-[image6]: /output/solidYellowCurve_raw_lines.png "Solid white Curve Line"
-[image7]: /output/solidYellowCurve2_line_overlay.png "Solid white Curve Line"
-[image8]: /output/solidYellowCurve2_raw_lines.png "Solid white Curve Line"
-[image9]: /output/solidYellowLeft_line_overlay.png "Solid white Curve Line"
-[image10]: /outputsolidYellowLeft_raw_lines.png "Solid white Curve Line"
-[image11]: /output/whiteCarLaneSwitch_line_overlay.png "Solid white Curve Line"
-[image12]: /output/solidYellowCurve_line_overlay.png "Solid white Curve Line"
-[image13]: /output/whiteCarLaneSwitch_raw_lines.png "Solid white Curve Line"
-
-
+Straight Lines             |  Raw lines
+:-------------------------:|:-------------------------:
+<img src= "./output/solidWhiteCurve_line_overlay.png" width="360" alt="Combined Image" />|<img src= "./output/solidWhiteCurve_raw_lines.png" width="360" alt="Combined Image" />
+<img src= "./output/solidWhiteRight_line_overlay.png" width="360" alt="Combined Image" />|<img src= "./output/solidWhiteRight_raw_lines.png" width="360" alt="Combined Image" />
+<img src= "./output/solidYellowCurve_line_overlay.png" width="360" alt="Combined Image"/>|<img src= "./output/solidYellowCurve_raw_lines.png" width="360" alt="Combined Image"/>
+<img src= "./output/solidYellowCurve2_line_overlay.png" width="360" alt="Combined Image" />|<img src= "./output/solidYellowCurve2_raw_lines.png" width="360" alt="Combined Image" />
+<img src= "./output/solidYellowLeft_line_overlay.png" width="360" alt="Combined Image" />|<img src= "./output/solidYellowLeft_raw_lines.png" width="360" alt="Combined Image" />
+<img src= "./output/whiteCarLaneSwitch_line_overlay.png" width="360" alt="Combined Image" />|<img src= "./output/whiteCarLaneSwitch_raw_lines.png" width="360" alt="Combined Image" />
 
 
 ###3. Potential shortcomings
