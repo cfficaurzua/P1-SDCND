@@ -7,7 +7,7 @@ See the output videos [here](https://www.youtube.com/watch?v=RIERRjmbTtU&list=PL
 I included a street from my location that I recorded.
 
 ## Requirements:
-The [enviroment](https://github.com/udacity/CarND-Term1-Starter-Kit "CarND-term1-starter-kit) is set with miniconda.
+The [enviroment](https://github.com/udacity/CarND-Term1-Starter-Kit "CarND-term1-starter-kit") is set with miniconda.
 
 ## Content
 - Proceseed images and video are found in the output folder
