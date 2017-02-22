@@ -8,7 +8,6 @@ I included a street from my location that I recorded.
 
 ## Requirements:
 The [enviroment](https://github.com/udacity/CarND-Term1-Starter-Kit "CarND-term1-starter-kit") is set with miniconda.
-Git-LFS is necessary to download the video files.
 
 ## Content
 - Proceseed images and video are found in the output folder
